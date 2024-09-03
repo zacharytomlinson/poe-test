@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "7ffffff_80000001",
+    "visible_layers": "7fcffff_80000001",
     "zone_display_mode": 0
   },
   "git": {
@@ -78,6 +78,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "poe-test-aparatus.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 328,
+          "size_x": 1920,
+          "size_y": 608
+        }
+      },
+      {
+        "name": "poe-test-aparatus.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 27,
+          "size_x": 1440,
+          "size_y": 341
+        }
+      }
+    ]
   }
 }
