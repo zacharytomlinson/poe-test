@@ -1,0 +1,27 @@
+Reference,Value,Qty,Manufacturer_Part_Number,Mouser Part Number,Description,Voltage
+"BR1,BR2",MB10F-13,2,MB10F-13,621-MB10F-13,Bridge Rectifiers Bridge Rectifier,
+C1,0.1uF,1,,,Unpolarized capacitor,100V
+C2,47uF,1,,647-UUX2A470MNQ1GS,Unpolarized capacitor,100V
+C3,1uF,1,,581-KGM31HR71A105KU,Unpolarized capacitor,10V
+C4,2u2,1,,581-KAF31GR72A225KU,Unpolarized capacitor,100V
+C5,10nF,1,,77-VJ1206Y103KBBAT4X,Unpolarized capacitor,100V
+C6,2.2nF,1,,,Unpolarized capacitor,2000V
+C7,1nF,1,,,Unpolarized capacitor,100V
+"C8,C9",47uF,2,,81-GRM31CR61C476ME4L,Unpolarized capacitor,6.3V
+C10,470uF,1,,80-T494X477M010,Unpolarized capacitor,6.3V
+D1,SMAJ58A,1,,576-SMAJ58A,"400W unidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)",
+D2,BAV21,1,,78-BAV21WS-E3-18,"200V 0.25A Small Signal Switching Diode, High Voltage, DO-35",
+D3,1N4148,1,,833-1N4148WX-TP,Diode,
+D4,SBR8U60P5-7,1,,621-SBR8U60P5Q-13,Diode,
+L1,10uH 1A,1,,652-SRP3012TA-100M,,
+R1,24.9k,1,,667-ERA-8AEB2492V,"Resistor, small US symbol",150V
+R2,41.2R,1,,667-ERA-8AHD41R2V,"Resistor, small US symbol",150V
+R3,64.9k,1,,71-TNPW120664K9BEEN,"Resistor, small US symbol",150V
+R4,17.8k,1,,SFR18EZPF1802,"Resistor, small US symbol",150V
+R5,110k,1,,CR1206-JW-114ELF,"Resistor, small US symbol",150V
+R6,10k,1,,754-RG3216P-1002-BT1,"Resistor, small US symbol",150V
+R7,5.1k,1,,,"Resistor, small US symbol",150V
+R8,20R,1,,71-PHPA1206E20R0BST1,"Resistor, small US symbol",150V
+R9,1k,1,,,"Resistor, small US symbol",150V
+U1,MP8007,1,,,,
+U2,POE70P-50L,1,,,,

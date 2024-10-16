@@ -1,29 +1,27 @@
-"Reference","Value","Datasheet","Footprint","Qty","DNP","#","Manufacturer_Part_Number","Mouser Part Number","Description","Voltage"
-"BR1,BR2","MB10F-13","https://www.diodes.com/assets/Datasheets/MB10F.pdf","PowerManagement:MB10F13","2","","1","MB10F-13","621-MB10F-13","Bridge Rectifiers Bridge Rectifier",""
-"C1","0.1uF","~","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","1","","2","","","Unpolarized capacitor","100V"
-"C2","47uF","~","Capacitor_SMD:CP_Elec_5x5.4","1","","3","","","Polarized capacitor","100V"
-"C3","1uF","~","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","1","","4","","","Unpolarized capacitor","10V"
-"C4","2u2","~","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","1","","5","","","Unpolarized capacitor","100V"
-"C5","10nF","~","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","1","","6","","","Unpolarized capacitor","100V"
-"C6","2.2nF/2000V","~","Capacitor_SMD:C_1210_3225Metric","1","","7","","","Unpolarized capacitor",""
-"C7","1nF","~","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","1","","8","","","Unpolarized capacitor","100V"
-"C8,C9","47uF","~","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","2","","9","","","Unpolarized capacitor","6.3V"
-"C10","470uF","~","Capacitor_Tantalum_SMD:CP_EIA-7343-43_Kemet-X","1","","10","","","Unpolarized capacitor","6.3V"
-"D1","SMAJ58A","https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet","Diode_SMD:D_SMA","1","","11","","","400W unidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)",""
-"D2","BAV21","http://www.vishay.com/docs/85543/bav17.pdf","Diode_SMD:D_SOD-323","1","","12","","","200V 0.25A Small Signal Switching Diode, High Voltage, DO-35",""
-"D3","1N4148","~","Diode_SMD:D_SOD-323","1","","13","","","Diode",""
-"D4","SBR8U60P5-7","~","Diode_SMD:D_PowerDI-5","1","","14","","","Diode",""
-"FB1,FB2","240R","~","PowerManagement:BLM31KN102BH1L","2","","15","","","Ferrite bead, small symbol",""
-"J1","Power Injector","~","Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical","1","","16","","","Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",""
-"J2","PoE Header","~","Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical","1","","17","","","Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",""
-"L1","10uH 1A","","Inductor_SMD:L_Bourns_SRU5016_5.2x5.2mm","1","","18","","","",""
-"R1","24.9k","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","19","","","Resistor, small US symbol",""
-"R2","41.2","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","20","","","Resistor, small US symbol",""
-"R3","64.9k","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","21","","","Resistor, small US symbol",""
-"R4","17.8k","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","22","","","Resistor, small US symbol",""
-"R5","110k","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","23","","","Resistor, small US symbol",""
-"R6","10k","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","24","","","Resistor, small US symbol",""
-"R7","5.1k","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","25","","","Resistor, small US symbol",""
-"R8","20","~","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","1","","26","","","Resistor, small US symbol",""
-"U1","MP8007","","PoweredDevices:MP8007GVZ","1","","27","","","",""
-"U2","POE70P-50L","","PoweredDevices:POE70P12LD","1","","28","","","",""
+Reference,Value,Voltage,Datasheet,Footprint,Qty,DNP,#,Manufacturer_Part_Number,Mouser Part Number,Description
+"BR1,BR2",MB10F-13,,https://www.diodes.com/assets/Datasheets/MB10F.pdf,PowerManagement:MB10F13,2,,1,MB10F-13,621-MB10F-13,Bridge Rectifiers Bridge Rectifier
+C1,0.1uF,100V,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,,2,,,Unpolarized capacitor
+C2,47uF,100V,~,Capacitor_SMD:CP_Elec_5x5.4,1,,3,,,Polarized capacitor
+C3,1uF,10V,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,,4,,,Unpolarized capacitor
+C4,2u2,100V,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,,5,,,Unpolarized capacitor
+C5,10nF,100V,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,,6,,,Unpolarized capacitor
+C6,2.2nF,2000V,~,Capacitor_SMD:C_1210_3225Metric,1,,7,,,Unpolarized capacitor
+C7,1nF,100V,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,,8,,,Unpolarized capacitor
+"C8,C9",47uF,6.3V,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2,,9,,,Unpolarized capacitor
+C10,470uF,6.3V,~,Capacitor_Tantalum_SMD:CP_EIA-7343-43_Kemet-X,1,,10,,,Unpolarized capacitor
+D1,SMAJ58A,,https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet,Diode_SMD:D_SMA,1,,11,,,"400W unidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"
+D2,BAV21,,http://www.vishay.com/docs/85543/bav17.pdf,Diode_SMD:D_SOD-323,1,,12,,,"200V 0.25A Small Signal Switching Diode, High Voltage, DO-35"
+D3,1N4148,,~,Diode_SMD:D_SOD-323,1,,13,,,Diode
+D4,SBR8U60P5-7,,~,Diode_SMD:D_PowerDI-5,1,,14,,,Diode
+"FB1,FB2",240R,,~,PowerManagement:BLM31KN102BH1L,2,,15,,,"Ferrite bead, small symbol"
+L1,10uH 1A,,,Inductor_SMD:L_Bourns_SRU5016_5.2x5.2mm,1,,18,,,
+R1,24.9k,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,19,,,"Resistor, small US symbol"
+R2,41.2R,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,20,,,"Resistor, small US symbol"
+R3,64.9k,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,21,,,"Resistor, small US symbol"
+R4,17.8k,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,22,,,"Resistor, small US symbol"
+R5,110k,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,23,,,"Resistor, small US symbol"
+R6,10k,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,24,,,"Resistor, small US symbol"
+R7,5.1k,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,25,,,"Resistor, small US symbol"
+R8,20R,,~,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,,26,,,"Resistor, small US symbol"
+U1,MP8007,,,PoweredDevices:MP8007GVZ,1,,27,,,
+U2,POE70P-50L,,,PoweredDevices:POE70P12LD,1,,28,,,
